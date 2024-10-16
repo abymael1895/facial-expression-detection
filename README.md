@@ -10,21 +10,23 @@
 **English:**  
 This project is a real-time facial expression detection system that recognizes emotions from a webcam feed and displays corresponding emojis next to each detected face. It uses `FER` for emotion recognition, `OpenCV` for video capture and image processing, and `Pillow` for emoji handling.
 
-
 ### Screenshots
 
-![Face Detection](path/to/your/image1.png)
-- *Face Detection Example*
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-left: 50px; margin-bottom: 20px">
+  <img src="screenshots/emoji5.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji4.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji3.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji1.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji2.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+</div>
 
-![Emotion Recognition](path/to/your/image2.png)
 - *Emotion Recognition Example*
+
 
 ## 🛠️ Prerequisites
 
 - Python 3.7+
 - Webcam
-
-
 
 ## 📦 Installation
 
@@ -114,19 +116,25 @@ git checkout -b feature/your-feature-name
 - Thank you for checking out our project! We appreciate your contributions!
 - Agradecemos por verificar nosso projeto! Apreciamos suas contribuições!
 
-  
-## Português:  
+<div style=" margin-top: 90px; margin-bottom: 50px">  
+
+# Português:  
 Este projeto é um sistema de detecção de expressões faciais em tempo real que reconhece emoções a partir de uma captura de webcam e exibe emojis correspondentes ao lado de cada rosto detectado. Ele usa `FER` para reconhecimento de emoções, `OpenCV` para captura de vídeo e processamento de imagem, e `Pillow` para manipulação de emojis.
+</div>
 
-### Screenshots / Capturas de Tela
+### Capturas de Tela
 
-![Face Detection](path/to/your/image1.png)
-- *Face Detection Example*
 
-![Emotion Recognition](path/to/your/image2.png)
-- *Emotion Recognition Example*
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-left: 50px; margin-bottom: 20px">
+  <img src="screenshots/emoji5.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji4.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji3.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji1.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+  <img src="screenshots/emoji2.png" alt="Descrição da Imagem" width="190" height="150" style="display: inline-block; margin: 5px;"/>
+</div>
 
-## 🛠️ Prerequisites
+
+## 🛠️ Pre-requisitos
 
 - Python 3.7+
 - Webcam
